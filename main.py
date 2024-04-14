@@ -10,13 +10,3 @@ for i in range(0,len(parse.objs_star)):
 
 for i in range(0,len(parse.objs_planet)):
     print(parse.objs_planet[i].mass)
-
-#objs = list()
-#
-#class Star:
-#    def __init__(self, mass):
-#        self.mass = mass
-#
-#for i in range(10):
-#    objs.append(Star(0))
-#    objs[i].mass = np.random.uniform(1,100)
