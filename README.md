@@ -1,4 +1,4 @@
-WIP- Python port of my c++ star project
+WIP- Python version of my c++ project
 
 Ported parser
 
